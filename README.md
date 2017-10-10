@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Charles6x/csp2017/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# [Home Page](https://github.com/Charles6x/csp2017/Website/Website/index.html)
+# [Home Page](https://charles6x.github.io/csp2017/Website/Website/index.html)
 
 ### Markdown
 
